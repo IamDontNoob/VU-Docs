@@ -18,7 +18,7 @@ Provide managed VU servers in Europe and North America with an integrated server
 
 ### [XLGAMES.PRO](https://xlgames.pro/en/bf3vu/)
 
-Provide managed VU servers in Russia, Finland, and Germany with anti-DDOS options.
+Provide managed VU servers in Russia, Finland, Germany and Singapore with anti-DDOS options.
 
 [Rent a server](https://xlgames.pro/en/bf3vu/)
 
